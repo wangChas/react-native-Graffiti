@@ -1,6 +1,7 @@
-#react-native-Graffiti
+#react-native-Graffiti  
+
 draw on an existing image
-## Getting Started
+## Getting Started  
 
 ### iOS
 1. `npm install`;
@@ -9,6 +10,7 @@ draw on an existing image
 
 
 ## Usage
+
 ```javascript
     import React, {Component} from 'react';
     import {
@@ -139,8 +141,10 @@ draw on an existing image
 ```
 
 ## Explain
-you can draw on a existing image.
-the same apis and props as react-native-sketch-view.But there are some bug of Eraser and clear.
+you can draw on a existing image.  
+
+the same apis and props as react-native-sketch-view.But there are some bug of Eraser and clear.  
+
 check out the save path from Xcode output window.
 
 
